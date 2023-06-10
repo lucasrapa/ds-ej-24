@@ -1,6 +1,6 @@
 <?php
 
-require_once 'modelo/auto.php'
+require_once 'modelo/auto.php';
 
 $a= new auto();
 

@@ -56,6 +56,8 @@ class auto {
          {
             $this->anio = $anio; 
 
+            }
+
 
             public function MostrarDatos()
             {
